@@ -1,0 +1,106 @@
+.login-box {
+    float: right;
+
+}
+#gg {
+    width: 35px;
+    height: 35px;
+}
+#ff{
+    width: 35px;
+    height: 35px;
+}
+#tt{
+    width:  35px;
+    height: 35px ;
+}
+button {
+    
+
+    display: inline-block;
+      
+    padding: 15px 25px;
+      
+    font-size: 15px;
+      
+    cursor: pointer;
+      
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+      
+    text-decoration: none;
+      
+    
+      
+    color: #fff;
+      
+    background-color:#df6575;
+      
+    border: none;
+      
+    border-radius: 30px;
+      
+    
+      
+}
+.button:hover {opacity: 1}
+#btn-frgt{
+    position:absolute;
+    right: 70px;
+    color: darkgray;
+}
+.checkbox{
+    color:darkgray;
+}
+img{
+    width: 650px;
+}
+#mailinp{
+    background-image: url('mmm.jpg');
+    background-size: 25px 16px;
+    background-color: rgb(255, 255, 255);
+    
+    background-position: 5px 15px;
+    
+    background-repeat: no-repeat;
+    
+    padding-left: 40px;
+    height: 46px;
+    width: 400px;
+    border: 0ch;
+    outline: 0;
+}
+#mailinp:hover{
+    background-color: rgb(236, 211, 211);
+}
+#pswrdinp{
+    background-image: url('kkk.jpg');
+    background-size: 16px 16px;
+    background-color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-position: 5px 15px;
+    padding-left: 40px;
+    height: 46px;
+    width: 400px;
+    position: bottom;
+    border:0ch;
+    outline:0;
+    
+}
+#pswrdinp:hover{
+    background-color: rgb(236, 211, 211);
+}
+p{
+    color:darkgray;
+}
+h2{
+    font-size: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: indianred;
+}
+input[type="checkbox"] {
+    color: hotpink;
+}
